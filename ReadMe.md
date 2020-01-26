@@ -3,7 +3,7 @@
 Start Dev:
 
 ```
-npm dev
+npm run dev
 ```
 
 Start Deploy:
