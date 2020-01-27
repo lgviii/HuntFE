@@ -11,12 +11,12 @@ const PostLink = props => (
 export default function Blog() {
   return (
     <Layout>
-      <h1>My Blog</h1>
+      <h1>Treasure Hunt</h1>
       <ul>
-        <PostLink title="Hello Next.js" />
-        <PostLink title="Learn Next.js is awesome" />
-        <PostLink title="Deploy apps with Zeit" />
+        <PostLink title="This is a dynamic page example..." />
       </ul>
+      <p>List of hunt puzzles</p>
+      <p>Or Home page</p>
     </Layout>
   );
 }
